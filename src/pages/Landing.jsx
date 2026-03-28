@@ -1,7 +1,7 @@
 import { motion, useScroll, useTransform } from 'framer-motion';
 import { Link, Navigate } from 'react-router-dom';
 import { PublicNavbar, Footer } from '../components/PublicNavbar';
-import { ArrowRight, BarChart3, Zap, Shield, Sparkles, LayoutDashboard, Target, Command } from 'lucide-react';
+import { ArrowRight, BarChart3, Zap, Shield, Sparkles, LayoutDashboard, Target, Command, Plane } from 'lucide-react';
 import { useAuth } from '../hooks/useAuth';
 
 const fadeUp = {
